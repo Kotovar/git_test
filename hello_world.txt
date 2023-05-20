@@ -1,1 +1,2 @@
 Just text
+This text was added with VSC
